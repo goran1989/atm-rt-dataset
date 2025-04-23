@@ -1,5 +1,5 @@
 
-# ATM-RT: Advanced Task Model Dataset for Real-Time Scheduling
+# ATM-RT: Advanced Task Model Dataset for Real-Time Task Assignment and Scheduling
 
 This dataset provides a benchmark collection of 12,600 real-time tasks based on the Advanced Task Model (ATM) for real-time multiprocessing systems. It is designed to support research in dynamic scheduling, thermal-aware assignment, reinforcement learning-based scheduling, and embedded systems optimization.
 
